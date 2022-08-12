@@ -26,3 +26,10 @@ Physical methods:
 - <http://askubuntu.com/a/58697/52975>
 
 ## Recover data removed with rm like tools
+
+Tools:
+- `dd`
+- `ddrescue` (GNU ddrescue, sometimes packaged as gddrescue)
+- `dd_rescue` (something entirely different from GNU ddrescue)
+- `scalpel`
+- `foremost`
